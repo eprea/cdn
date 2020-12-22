@@ -515,7 +515,7 @@ freetcp.com
 freewww.biz
 freewww.info
 ftp1.biz
-ftpserver.biz
+ftp
 gettrials.com
 got-game.org
 gr8domain.biz
@@ -972,7 +972,7 @@ search.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
 yahoo.com.hk
-duckduckgo-owned-server.yahoo.net
+duckduckgo-owned-
 030buy.com
 0rz.tw
 1-apple.com.tw
@@ -1361,7 +1361,7 @@ bestgore.com
 bestpornstardb.com
 bestvpn.com
 bestvpnanalysis.com
-bestvpnserver.com
+bestvpn
 bestvpnservice.com
 bestvpnusa.com
 bet365.com
@@ -2719,7 +2719,7 @@ holymountaincn.com
 holyspiritspeaks.org
 derekhsu.homeip.net
 homeperversion.com
-homeservershow.com
+home
 old.honeynet.org
 hongkongfp.com
 hongmeimei.com
@@ -2884,7 +2884,7 @@ initiativesforchina.org
 inkui.com
 inmediahk.net
 innermongolia.org
-blog.inoreader.com
+inoreader.com
 inote.tw
 insecam.org
 insidevoa.com
