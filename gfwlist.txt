@@ -1989,6 +1989,7 @@ getoutline.org
 get.page
 getsocialscope.com
 getsync.com
+gettr.com
 gettrials.com
 gettyimages.com
 getuploader.com
@@ -2007,7 +2008,6 @@ gifree.com
 giga-web.jp
 gigporno.ru
 girlbanker.com
-gist.github.com
 githubassets.com
 github.blog
 github.com
@@ -3595,6 +3595,7 @@ newyorker.com
 newyorktimes.com
 nexon.com
 next11.co.jp
+nextdigital.com.hk
 nextmag.com.tw
 nextmedia.com
 nexton-net.jp
@@ -5010,7 +5011,9 @@ tora.to
 tor.blingblingsquad.net
 torcn.com
 torguard.net
+torlock.com
 torproject.org
+torrentkitty.tv
 torrentprivacy.com
 torrentproject.se
 torrenty.org
